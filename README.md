@@ -1,4 +1,4 @@
-# Lab Experiment 5: UX Design for a Mobile Health App (Chronic Disease Management)
+# Lab Experiment 5.1: UX Design for a Mobile Health App (Chronic Disease Management)
 
 ## AIM  
 To design a mobile health app that assists chronic disease patients in tracking medications and symptoms, improving adherence and communication with healthcare providers.
@@ -84,7 +84,7 @@ The app design effectively addresses key user challenges by simplifying medicati
 
 ---
 
-# Lab Experiment 6: UX Design for a Sustainable Fashion E-Commerce Website
+# Lab Experiment 5.2: UX Design for a Sustainable Fashion E-Commerce Website
 
 ## AIM  
 To design an e-commerce website that helps eco-conscious shoppers find and compare genuinely sustainable fashion products easily and confidently.
